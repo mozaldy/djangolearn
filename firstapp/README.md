@@ -9,6 +9,7 @@
 
     ```sh
     django-admin startproject PROJECTNAME
+    ```
 - Test run
     ```sh
     cd PROJECTNAME
