@@ -4,7 +4,6 @@
 
     ```sh
     pip install django
-    ```
 - Create new project
 
     ```sh
