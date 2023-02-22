@@ -23,3 +23,5 @@
 ## 4. Template
 - Add templates in `APPNAME\templates\APPNAME`
 - Use `render()` in views to point to template
+- Add static in `APPNAME\static\APPNAME`
+- load static to html and point to css file dynamically
