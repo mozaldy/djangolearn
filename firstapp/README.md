@@ -12,7 +12,7 @@
     ```sh
     cd PROJECTNAME
     python manage.py runserver
-- To add new app inside project
+- Add new app inside project
     ```sh
     python manage.py startapp APPNAME
 ## 2. New App
