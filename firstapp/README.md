@@ -16,7 +16,7 @@
     ```sh
     python manage.py startapp APPNAME
 ## 2. New App
-- Create function in `views.py`
+- Create function in `views.py`  
 - Create `urls.py` and add url using `path()` function inside `urlpatterns[]` to connect http request to the views made previously
 ## 3. Root App
 - in `settings.py` add the new app to `INSTALLED_APPS`
