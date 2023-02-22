@@ -1,14 +1,11 @@
 # Django Tutorial
 ## 1. Prerequisite
 - Install Django
-
     ```sh
     pip install django
 - Create new project
-
     ```sh
     django-admin startproject PROJECTNAME
-    ```
 - Test run
     ```sh
     cd PROJECTNAME
